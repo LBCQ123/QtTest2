@@ -7,6 +7,6 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     Widget w;
     w.show();
-    qDebug() << "hello git" ;
+    qDebug() << "hello git123" ;
     return a.exec();
 }
