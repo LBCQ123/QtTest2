@@ -8,5 +8,6 @@ int main(int argc, char *argv[])
     Widget w;
     w.show();
     qDebug() << "hello git123" ;
+    qDebug() << "hahahaha" ;
     return a.exec();
 }
